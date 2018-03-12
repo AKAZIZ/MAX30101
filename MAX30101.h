@@ -32,7 +32,7 @@
 #define MAX30101_I2C_ADDRESS 0x57
 
 
-/*register addresses (Same Map rigesters in the Datasheet)*/
+/*register addresses (Same Map registers in the Datasheet)*/
 
 #define REG_INTR_STATUS_1 0x00
 #define REG_INTR_STATUS_2 0x01
