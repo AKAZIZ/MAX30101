@@ -68,7 +68,8 @@ public:
 
     /* Class constructor*/
     MAX30101(PinName sda, PinName scl); 
-      
+    
+    /* Methods*/
     bool who_I_am(void);
     bool maxim_max30101_init();
     bool maxim_max30101_read_fifo(uint32_t *pun_red_led, uint32_t *pun_ir_led);
