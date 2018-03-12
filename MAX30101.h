@@ -47,6 +47,7 @@
 #define REG_SPO2_CONFIG 0x0A
 #define REG_LED1_PA 0x0C
 #define REG_LED2_PA 0x0D
+#define REG_LED3_PA 0x0E
 #define REG_PILOT_PA 0x10
 #define REG_MULTI_LED_CTRL1 0x11
 #define REG_MULTI_LED_CTRL2 0x12
